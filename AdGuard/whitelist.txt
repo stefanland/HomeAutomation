@@ -20,3 +20,5 @@ ow.ly
 www.ow.ly
 amzn.to
 amzn.com
+github.com
+msn.com
